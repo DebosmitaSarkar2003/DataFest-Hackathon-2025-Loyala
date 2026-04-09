@@ -25,7 +25,7 @@ This repository contains the work submitted by our team for the **ASA DataFest H
 
 ## 👥 Contributors
 - **Debosmita Sarkar** - [GitHub Profile](https://github.com/DebosmitaSarkar2003)
-- *(Add other team members here if applicable)*
+
 
 ## 📜 License
 This project is for educational and competition purposes as part of the ASA DataFest 2025.
